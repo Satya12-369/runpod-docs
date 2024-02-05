@@ -1,0 +1,3 @@
+{
+    "content": "API keys\nAPI keys authenticate requests to RunPod. You can generate an API key with Read and Write\npermission or Read permission.\nGenerate\nTo create an API key:\n1. From the console, select Settings.\n2. Under API Keys, choose + API Keys.\n3. Select the permission and choose Create.\nNOTE\nOnce your API key is generated, keep it secure. Treat it like a password and avoid sharing it in\ninsecure environments.\nRevoke\nTo delete an API key:\n1. From the console, select Settings.\n2. Under API Keys, select the trash can icon and select Yes.\nEdit this page\nConvert web pages and HTML files to PDF in your applications with the Pdfcrowd HTML to PDF API\nPrinted with Pdfcrowd.com\n"
+}

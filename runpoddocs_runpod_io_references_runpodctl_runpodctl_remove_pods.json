@@ -1,0 +1,3 @@
+{
+    "content": "References\nrunpodctl\nRemove Pods\nOn this page\nRemove Pods\nrunpodctl remove pods\nremove all pods using name\nSynopsis\nremove all pods using name from runpod.io\nOptions\nSEE ALSO\nrunpodctl remove - remove a resource\nEdit this page\nPrevious\n\u00ab Remove Pod\nNext\nSend \u00bb\nDocs\nrunpodctl remove pods [name] [flags]\n-h, --help           help for pods\n    --podCount int   number of pods to remove with the same name (default \nAsk AI\nAsk AI\nRunPod\nOverview\nTutorials\nAI APIs\nCommunity\nDiscord\nContact us\nMore\nBlog\nGitHub\nCopyright \u00a9 2024 RunPod\nAsk AI\nAsk AI\n"
+}

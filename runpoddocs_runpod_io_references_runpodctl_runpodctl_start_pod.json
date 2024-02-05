@@ -1,0 +1,3 @@
+{
+    "content": "References\nrunpodctl\nStart Pod\nOn this page\nStart Pod\nrunpodctl start pod\nstart a pod\nSynopsis\nstart a pod from runpod.io\nOptions\nSEE ALSO\nrunpodctl start - start a resource\nEdit this page\nPrevious\n\u00ab Start\nNext\nStop \u00bb\nDocs\nrunpodctl start pod [podId] [flags]\n    --bid float32   bid per gpu for spot price\n-h, --help          help for pod\nAsk AI\nAsk AI\nRunPod\nOverview\nTutorials\nAI APIs\nCommunity\nDiscord\nContact us\nMore\nBlog\nGitHub\nCopyright \u00a9 2024 RunPod\nAsk AI\nAsk AI\n"
+}
